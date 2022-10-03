@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "reddit"
+name = "reddio"
 version = "0.0.1"
 description = "A simple GET only reddit API wrapper"
 authors = ["WitherredAway <sdssouvic99@gmail.com>"]
