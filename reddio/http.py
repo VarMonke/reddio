@@ -8,7 +8,7 @@ from .constants import BASE_API_URL
 from .exceptions import HTTPException, NotFound
 
 
-class http:
+class Http:
     """The http class that handles requests"""
 
     def __init__(self, auth: Optional[aiohttp.BasicAuth] = None) -> None:
