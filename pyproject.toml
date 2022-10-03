@@ -2,7 +2,7 @@
 name = "reddio"
 version = "0.0.1"
 description = "A simple GET only reddit API wrapper"
-authors = ["WitherredAway <sdssouvic99@gmail.com>"]
+authors = ["VarMonke <var.monke@gmail.com>", "WitherredAway <sdssouvic99@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
