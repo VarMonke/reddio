@@ -1,5 +1,4 @@
 from .http import *
-from .constants import *
 from .exceptions import *
 
 
